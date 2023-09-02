@@ -1,5 +1,7 @@
+import "./block.css";
+
 const Block = () => {
-  return <div>Block</div>;
+  return <div className="block"></div>;
 };
 
 export default Block;

@@ -1,0 +1,8 @@
+.block {
+  width: 100px;
+  height: 49px;
+  background-color: var(--fullstop-color);
+  display: inline-block;
+  margin-left: 20px;
+  /* margin-top: 20px; */
+}

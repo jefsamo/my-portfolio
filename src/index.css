@@ -23,3 +23,8 @@ body {
   color: var(--text-color);
   font-family: Manrope;
 }
+
+.container {
+  max-width: 70%;
+  margin: 0 auto;
+}

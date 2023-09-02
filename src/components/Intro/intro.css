@@ -1,0 +1,33 @@
+.intro-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  margin: auto;
+}
+
+.intro .name {
+  display: inline-block;
+  color: var(--heading-color);
+  font-family: General Sans;
+  font-size: 64px;
+  font-weight: 900;
+}
+
+.intro .title {
+  color: var(--heading-color);
+  font-family: General Sans;
+  font-size: 64px;
+  font-weight: 900;
+  margin-left: 10px;
+}
+
+.intro .content {
+  display: inline-block;
+  color: var(--text-color);
+  font-family: General Sans;
+  font-size: 64px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
