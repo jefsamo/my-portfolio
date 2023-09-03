@@ -1,0 +1,14 @@
+.lower {
+  background-color: var(--box-background);
+  border-radius: 10px;
+  padding: 10px 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lower .reach-out .reach {
+  color: var(--heading-color);
+  font-family: General Sans;
+  font-size: 16px;
+}

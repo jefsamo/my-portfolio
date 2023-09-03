@@ -1,6 +1,6 @@
 import LocationAndTime from "../LocationAndTime/LocationAndTime";
+import ReachMe from "../ReachMe/ReachMe";
 import "./tools.css";
-import RightLogo from "/arrow-right.png";
 
 const Tools = () => {
   return (
@@ -34,15 +34,7 @@ const Tools = () => {
                 </p>
               </div>
             </div>
-            <div className="lower">
-              <div className="reach-out">
-                <p className="reach">Reach out to me</p>
-                <p>Hi@shopeyinwale@gmail.com</p>
-              </div>
-              <div className="go">
-                <img src={RightLogo} alt="Right Arrow" />
-              </div>
-            </div>
+            <ReachMe />
           </div>
         </div>
         <div className="grid-item">
