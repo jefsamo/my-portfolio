@@ -8,6 +8,8 @@ const Featured = () => {
       <BlockFeatured />
       <div className="project">
         <Project />
+        <Project />
+        <Project />
       </div>
     </div>
   );
