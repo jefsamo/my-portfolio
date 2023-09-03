@@ -16,4 +16,9 @@
   font-size: 15px;
   font-style: normal;
   font-weight: 500;
+  transition: all ease 0.5s;
+}
+
+.header-links li a:hover {
+  color: var(--heading-color);
 }
