@@ -27,7 +27,7 @@ const LocationAndTime = () => {
 
   return (
     <div className="location-time">
-      <span>Lagos, NG</span>
+      <span>London, UK</span>
       <span style={{ marginLeft: "15px" }}>
         {currentHour}:{addZeroToMinute}
         {timeOfDay}
